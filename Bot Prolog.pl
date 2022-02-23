@@ -92,7 +92,7 @@ CICLO
 ********/
 
 bot_rede:-
-	format('Saudações! Eu sou o EuClides.'),nl,
+	format('Saudações! Eu sou o Zaunita.'),nl,
 	format('Voce deseja saber: '),nl,
 	repeat,
 	nl, format('- '),
